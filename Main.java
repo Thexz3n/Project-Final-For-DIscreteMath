@@ -1,4 +1,20 @@
+/*
+Task In our project
+• Allows users to input logical expressions
+• Automatically generates complete truth tables
+• Converts between different logical notation forms (infix, prefix, postfix)
+• Simplifies logical expressions using Boolean algebra rules
+• Visualizes logical operations and equivalences
+*/
+/*
+Create By:
+    Muslim Mahmood
+    Muhammad Jalal
+    Darw Kamal
+    Ahmad Jabar
 
+    Date: 17/12/2024
+ */
 import java.util.Scanner;
 import java.util.Stack;
 
